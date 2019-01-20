@@ -1,0 +1,6 @@
+asyncws>=0.1
+objectpath>=0.6.1
+Pillow>=5.4.1
+rpi-epd2in7>=1.0
+RPi.GPIO>=0.6.5
+spidev>=3.2
