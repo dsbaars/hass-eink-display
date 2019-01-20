@@ -27,7 +27,7 @@ __Left side__:
 All rooms (abbreviated) in a table, with a row showing if the lights are on, and another row showing the temperature.
 
 __Right side__:
-Top: Power consumption and living room temperature
+Top: Power consumption and living room temperature<br>
 Bottom: Date and time
 
 #### Hardware which feeds HA (relevant for this project)
